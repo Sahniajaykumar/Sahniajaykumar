@@ -1,4 +1,4 @@
-![logo](https://github.com/Sahniajaykumar/Sahniajaykumar/blob/main/java%20/Template.png)
+![logo](https://github.com/Sahniajaykumar/Sahniajaykumar/blob/main/java%20Template.png)
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
 <h3 align="center">Experienced Java Full Stack Developer with expertise in Spring Boot, Hibernate, and RESTful APIs. Proficient in database management, cloud services (AWS), and implementing Spring Security for secure applications.Strong understanding of Agile methodologies, unit testing, and Java 8 features for building scalable solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
